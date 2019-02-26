@@ -6,7 +6,7 @@ Simple To do App based on React with Firebase Authentication. First time using r
 2. Signup Form
 3. Add Plan
 
-![login](https://github.com/purakoso/warioplan/issues/1#issue-414421524)
+![login](https://user-images.githubusercontent.com/9845801/53386844-86ce2a00-39b6-11e9-9c6a-2974e8090302.png)
 
 ## Demo
 [Warioplan Demo](https://mbokdjah-warioplan.firebaseapp.com/)
