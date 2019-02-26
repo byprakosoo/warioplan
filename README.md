@@ -14,3 +14,5 @@ Simple To do App based on React with Firebase Authentication. First time using r
 ## Installation
 ```npm start```
 
+## MIT License
+© 2019 by @mbokdjah
